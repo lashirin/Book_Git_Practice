@@ -5,3 +5,5 @@ the Vanishing glass
 page 2 of my book
 
  some work here
+
+ I edit page 2 after i commit it
